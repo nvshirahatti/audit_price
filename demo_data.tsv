@@ -1,0 +1,151 @@
+Address	BuildingArea	PrimaryUseType	Jurisdiction	Size	Customer	AuditLevel	Audit Price
+1020 E. 14th Place	28,906	light manufacturing	LADBS	Medium	Jackie Alvarez	2	$5,200.00
+5500 W. 83rd St.	39,960	light manufacturing	LADBS	Medium	Jackie Alvarez	2	$5,900.00
+8414 Orion Avenue	76,200	apartments	LADBS	Large	Saxon Novotka	2	$5,550.00
+10511 Lindley Avenue	63,184	apartments	LADBS	Large	Saxon Novotka	2	$5,000.00
+1150 North Wilmington Boulevard	45,188	apartments	LADBS	Medium	Saxon Novotka	2	$4,759.40
+1500 East Lomita Boulevard	22,000	auto body repair	LADBS	Small	Saxon Novotka	2	$4,000.00
+561-581 Mateo Street	192,947	office	LADBS	Extra Large	Erika Hughes	2	$12,000.00
+705 West 9th Street	263,335	apartments	LADBS	Extra Large	Erika Hughes	2	$15,000.00
+1400 N Spring St	20,419	warehouse	LADBS	Small	Becki Ueno	2	$4,000.00
+400	38,401	retail	LADBS	Medium	Chad Choi	2	$4,450.00
+794 E 14TH Street	22,534	warehouse	LADBS	Small	Philip Kim	2	$4,000.00
+3050 E 11th St	42,400	food processing	LADBS	Medium	Cameron	2	$6,250.00
+16944 S Vermont Ave	41,810	light industrial	LADBS	Medium	Tim Hickock	2	$5,350.00
+21350 Lassen St	124,500	warehouse	LADBS	Extra Large	Kevin Petrovic	2	$5,250.00
+647 E 59th St	74,080	warehouse	LADBS	Large	Carlos Espinoza	2	$4,250.00
+112 W 52nd St	28,215	church	LADBS	Medium	Rodney Ross	2	$4,000.00
+610 E 59th St	47,705	light industrial	LADBS	Medium	Carlos Espinoza	2	$6,000.00
+611 E 59th St	34,128	warehouse	LADBS	Medium	Carlos Espinoza	2	$4,750.00
+1414 Greenfield Ave	40,573	apartments	LADBS	Medium	Ruth Goodman	2	$5,000.00
+3600 E. Olympic Blvd	138,268	manufacturing/warehouse	LADBS	Extra Large	Claudia	2	$6,250.00
+3434 W. 6th Street	26,550	office/retail	LADBS	Small	Claudia	2	$4,750.00
+21700 Septo St	20,000	apartments	LADBS	Small	Daniel Waterman	2	$4,000.00
+690 Veteran Ave	37,066	apartments	LADBS	Medium	Cristina	2	$5,000.00
+1919 3rd Ave	24,000	warehouse	LADBS	Small	Ricky	2	$4,000.00
+8841 Wilbur Ave.	23,978	industrial/office? (SF vs loopnet)	LADBS	Small	May Cohen	2	$5,000.00
+12110 Rochester Ave	26,199	apartments	LADBS	Small	Roger Cowan	2	$5,000.00
+12833 Ventura Blvd	95,000	retail	LADBS	Large	Demetrius Bradshaw	2	$6,500.00
+692-698 S Alvarado St	39,354	office	LADBS	Medium	Demetrius Bradshaw	2	$5,000.00
+2222 Figueroa St	86,633	office/retail/multi-family	LADBS	Large	Naseem Abofathi	2	$5,990.00
+7767 Hollywood Blvd	22,179	multi-family	LADBS	Small	Mike Resnick	2	$4,500.00
+8929 Oso Ave	23,232	industrial	LADBS	Small	David Johal	1	$2,500.00
+1922 E 7th Pl	22,000	industrial	LADBS	Small	Bahnjeet	2	$5,000.00
+1242 S BERENDO ST	36,252	Retail - one store	LADBS	Medium	Eddie Crespo	2	$5,000.00
+1200 S Club View Dr	164,901	Condos	LADBS	Extra Large	Angel Valdez	2	$15,000.00
+20746 (OLD) Dearborn St	21,450	Warehouse	LADBS	Small	Robert Fletcher	2	$5,000.00
+2203 3rd	33,998	industrial	SF	Medium	Melanie Myers	1	$2,695.00
+577 2nd	30,480	office	SF	Medium	Melanie Myers	1	$2,395.00
+128 King	46,500	office	SF	Medium	Ron Anderson	1	$3,295.00
+45 Kearny St	28,660	office	SF	Medium	Alex Ayala	1	$2,695.00
+165 Post St	46,314	office	SF	Medium	Alex Ayala	1	$3,795.00
+600 Alabama St	12,400	industrial/office? (SF vs loopnet)	SF	Extra Small	Dr. Jill Williamson	1	$1,895.00
+1438 Market St	23,260	office	SF	Small	Daniel Tavares	1	$2,595.00
+66 Potrero	159,678	Commercial/Warehouse/Office	SF	Extra Large	Byer California	2	$4,500.00
+545 Sutter	19,786				Small	Simon Chang	1	$1,995.00
+2489 Mission	16,996				Extra Small	Nidal Nazzal	1	$2,395.00
+175 De Haro	13,000				Extra Small	Joe Talmadge	1	$1,795.00
+1001 Brannan	26,000	commercial			Small	Ron Anderson	1	$1,895.00
+929 Clay	58,726			Large	Deirdre Moy	2	$4,295.00
+2534 Mission St	15,300			Extra Small	John Clark	1	$1,795.00
+984 Folsom	22,240			Small	Taylor Lee	1	$1,795.00
+225 Hyde St	52,661	mixed use residential	SF	Large	Brandon Murphy	1	$4,295.00
+655-675 South Van Ness Ave	20,005	Commercia/Warehouse	SF	Small	Ken Tam	1	$2,195.00
+3175 17th St	14,400	Commercial/School	SF	Extra Small	Jason Dinneen	1	$1,895.00
+3655 LENAWEE AVE	23,100	Industrial	LADBS	Small	David Sostchen	2	$4,500.00
+1 Sutter Street/540 Market Street	34,265	Office	SF	Medium	CypressCapital (1 Sutter Street), Inc.	1	$2,995.00
+499 Jackson Street	17,911	Office	SF	Small	499 Jackson, LLC	1	$2,395.00
+4847 Laurel Canyon Blvd	28,806	Apartment	LADBS	Medium	LC Lofts LLC	2	$5,000.00
+6138 FRANKLIN AVE	142,785	Apartment	LADBS	Extra Large	Legacy Partners/Steven Yamamoto	2	$12,000.00
+225 Post St	17,000	Retail	SF	Small	Burberry	1	$1,695.00
+8201 Topanga Canyon Blvd	65,819	Supermarket/Grocery Store	LADBS	Large	Vallarta Supermarkets	2	$7,800.00
+13287 Ralston Ave	91,500	Supermarket/Grocery Store	LADBS	Large	Vallarta Supermarkets	2	$7,800.00
+16040 Sherman Way	40,625	Supermarket/Grocery Store	LADBS	Medium	Vallarta Supermarkets	2	$5,340.00
+13820 Foothill Blvd	33,000	Supermarket/Grocery Store	LADBS	Medium	Vallarta Supermarkets	2	$5,340.00
+10859 Oxnard St	20,799	Supermarket/Grocery Store	LADBS	Small	Vallarta Supermarkets	2	$5,700.00
+9533 W. Pico Blvd	24,155	Retail	LADBS	Small	Yanina Zajdman/E.M. Caplow Associates	2	$4,900.00
+630 S Spring St	86,850	Office	LADBS	Large	Marvin Buenaflor/MALDEF	2	$6,500.00
+9000 Mason Avenue	26,520	Light Industrial	LADBS	Small	Frank Spinale/Hydraulics International, Inc	2	$5,400.00
+20961 Knapp Street	44,299	Industrial/Manufacturing	LADBS	Medium	Frank Spinale/Hydraulics International, Inc	2	$4,000.00
+541 S Spring St	62,680	Mixed Use	LADBS	Large	Jacob Allen	2	$4,450.00
+4605 Lankershim Blvd	109,329	Office	LADBS	Extra Large	Thomas Von Der Ahe/VDA Property Company	2	$7,700.00
+3600 E. Olympic Blvd	138,268	manufacturing/warehouse	LADBS	Extra Large	Claudia	2	$6,650.00
+3434 W. 6th Street	26,550	office/retail	LADBS	Small	Claudia	2	$4,750.00
+5437 Harold Way	21,056	multi-family	LADBS	Small	Min Kim	2	$4,500.00
+17925 Devonshire St.	22,687	multi-family	LADBS	Small	Min Kim	2	$4,500.00
+12254 Burbank Blvd.	24,794	multi-family	LADBS	Small	Min Kim	2	$4,500.00
+8553 Sepulveda Blvd.	28,230	multi-family	LADBS	Small	Min Kim	2	$4,500.00
+15050 Parthenia St	32,296	multi-family	LADBS	Medium	Min Kim	2	$5,250.00
+1008 Rosemont Ave	33,191	multi-family	LADBS	Medium	Min Kim	2	$5,250.00
+2959 Leeward Ave	39,678	multi-family	LADBS	Medium	Min Kim	2	$5,250.00
+8437 Cedros Ave	40,089	multi-family	LADBS	Medium	Min Kim	2	$6,000.00
+7251 Milwood Ave	41,402	multi-family	LADBS	Medium	Min Kim	2	$6,000.00
+417 S Bonnie Brae St.	45,963	multi-family	LADBS	Medium	Min Kim	2	$6,000.00
+3240 W Slauson Ave	73,697	retail	LADBS	Large	Emerson Simpson	2	$6,800.00
+9727 DE SOTO AVE	210,386	Lightindustrial	LADBS	Extra Large	Christina Medlin/NHBB	2	$12,500.00
+508 Gulf Ave	24,280	multi-family	LADBS	Small	Min Kim	2	$4,500.00
+4821 Sepulveda Blvd	38,930	multi-family	LADBS	Medium	Michael Eastman	2	$5,250.00
+2024 W 6th St	45,147	Retail/Residential	LADBS	Medium	Yossi Engel/Countywide Management	2	$5,550.00
+2065 W 6th St	40,159	Retail/Residential	LADBS	Medium	Yossi Engel/Countywide Management	2	$5,550.00
+323 Geary St	50,993	Office	SF	Large	Josh Cort	2	$4,100.00
+15215 Keswick St	26,674	Industrial	LADBS	Small	Kay Zec	2	$5,200.00
+6651 Fallbrook Ave	161,565	Commercial/Retail	LADBS	Extra Large	April Sheffield	2	$7,700.00
+6605 Fallbrook Ave	40,991	Commercial/Retail	LADBS	Medium	April Sheffield	2	$5,100.00
+7615 N LANKERSHIM BLVD	24,445	Hotel	LADBS	Small	Ruela Sabado	2	$4,750.00
+1100 S FLOWER ST	66,150	Office	LADBS	Large	Yassi Hariri	2	$6,075.00
+1111 S Hope St	186,610	Parking/commercial	LADBS	Extra Large	Yassi Hariri	2	$8,550.00
+400 2nd St	88,409	Office	SF	Large	Lisa Weadon	2	$4,950.00
+645 Harrison St	74,641	Office	SF	Large	Lisa Weadon	2	$4,200.00
+433 California St	108,925	Office	SF	Extra Large	Lisa Weadon	2	$6,025.00
+4751 Fountain Ave	93,990	Religious building	LADBS	Large	Kreg Laughlin	2	$5,975.00
+214 E 8th St	43,136	Light industrial	LADBS	Medium	Joanne Song	2	$5,575.00
+1560 S Centinela Ave	20,863	multi-family	LADBS	Small	Anastasia Tsitsishvili	2	$4,500.00
+1400 N Spring St	20,419	warehouse	LADBS	Small	Becki Ueno	2	$4,500.00
+1090 Sansome St	62,500	Office	SF	Large	Noe de la Cruz	2	$4,595.00
+4833 Fountain Ave	210,966	Religious	LADBS	Extra Large	Kreg Laughlin	2	$11,225.00
+4820 Fountain Ave	90,877	Parking garage	LADBS	Large	Kreg Laughlin	2	$5,050.00
+1825 N Bronson Ave	23,864	multi-family	LADBS	Small	Kreg Laughlin	2	$5,100.00
+15909 VANOWEN ST	20,048	multi-family	LADBS	Small	Tess Luna	2	$4,750.00
+14641 Delano St	20,526	multi-family	LADBS	Small	Tess Luna	2	$4,750.00
+8857 Cedros Ave	22,486	multi-family	LADBS	Small	Tess Luna	2	$5,450.00
+8630 Willis Ave 	28,388	multi-family	LADBS	Medium	Tess Luna	2	$5,450.00
+13349 Saticoy St	33,838	multi-family	LADBS	Medium	Tess Luna	2	$5,900.00
+14541 Victory Blvd	46,924	Office	LADBS	Medium	Tess Luna	2	$6,500.00
+1747 N NORMANDIE AVE	22,337	multi-family	LADBS	Small	Estrella Perez	2	$4,650.00
+1805 SICHEL ST	27,660	multi-family	LADBS	Medium	Estrella Perez	2	$4,650.00
+2250 E 111TH ST	112,213	multi-family	LADBS	Extra Large	Estrella Perez	2	$9,750.00
+7926 Foothill Blvd	22,282	multi-family	LADBS	Small	Saxon Nowotka	2	$4,650.00
+10825 Nettleton St	52,373	multi-family	LADBS	Large	Saxon Nowotka	2	$5,700.00
+307 S Reno St 	102,336	multi-family	LADBS	Extra Large	Saxon Nowotka	2	$9,000.00
+23200 Western Ave	115,449	multi-family	LADBS	Extra Large	Saxon Nowotka	2	$9,750.00
+1200 Wilshire Blvd	104,696	Office	LADBS	Extra Large	Edwin Martinez	2	$7,700.00
+300 W AVENUE 33	153,651	warehouse	LADBS	Extra Large	Gary Marion	2	$7,250.00
+827 Hyde St	21,607	Office	SF	Small	Weiya Noble	1	$2,500.00
+1697 PACIFIC AVE	68,757	Hotel	LADBS	Large	Ken Pratt	2	$6,000.00
+19310 PACIFIC GATEWAY DR	136,694	Warehouse	LADBS	Extra Large	Rob Decker	2	$7,250.00
+7600 LAUREL CANYON BLVD	57,883	Commercial/Retail	LADBS	Large	Lovine Gopez	2	$6,300.00
+425 S Palos Verdes St	30,193	Federal property/office	LADBS	Medium	Milind Desai	2	$6,000.00
+20600 Prairie St	64,751	Light industrial	LADBS	Large	Rodrigo Barragan	2	$7,400.00
+20630 PLUMMER ST	37,940	Light industrial	LADBS	Medium	Nancy / Striks Properties, LP	2	$5,100.00
+4845 Exposition Blvd	22,050	Light Manufacturing	LADBS	Small	Bernard Sichel	2	$5,200.00
+15600 Roxford St	144,630	Light industrial	LADBS	Extra Large	Jessie Lopez	ASHREA II	$10,250.00
+17830 Lassen St	26,424	multi-family	LADBS	Small	Ralice Remy	ASHREA II	$4,650.00
+13432 S. Vermont Avenue	20,058	multi-family	LADBS	Small	Ofelia Palma	2	$4,650.00
+6819 Hinds Ave	22,492	multi-family	LADBS	Small	Karina Rojas	2	$4,650.00
+820 S Mansfield Ave	22,920	multi-family	LADBS	Small	Michael LeBeau (Barcelona Apartments LP)	2	$4,650.00
+8631 STANMOOR DR	23,389	Religious	LADBS	Small	Fred Balsz	2	$4,700.00
+1845 Gramercy Pl	25,460	multi-family	LADBS	Small	Gidon Rosman	2	$4,650.00
+11265 Palms Blvd	25,688	multi-family	LADBS	Small	Karina Rojas	2	$4,650.00
+17433 VANOWEN ST	28,288	multi-family	LADBS	Medium	Gidon Rosman	2	$4,650.00
+508 S Serrano Ave	28,432	multi-family	LADBS	Medium	Michael LeBeau (Affordable Apartments I LP)	2	$4,650.00
+3742 Jasmine Ave	29,388	multi-family	LADBS	Medium	Michael LeBeau	2	$4,650.00
+7521 Simpson Ave	32,166	multi-family	LADBS	Medium	Karina Rojas	2	$5,000.00
+12309 Osborne Place	32,444	multi-family	LADBS	Medium	Marilu Vargas	2	$5,000.00
+5920 Melrose Avenue	33,012	multi-family	LADBS	Medium	Gloria Diaz	2	$5,000.00
+3760 Dufresne Ct	33,237	multi-family	LADBS	Medium	Karina Rojas	2	$5,000.00
+18331 Kittridge St	33,924	multi-family	LADBS	Medium	Melizza	2	$5,000.00
+8529 Willis Ave	38,137	multi-family	LADBS	Medium	Karina Rojas	2	$5,000.00
+1825 N CHEROKEE AVE	42,945	multi-family	LADBS	Medium	Tiffany Addison	2	$5,350.00
+5301 Newcastle Avenue	46,472	multi-family	LADBS	Medium	Gloria Diaz	2	$5,350.00
+14737 Sherman Way	49,263	multi-family	LADBS	Medium	Karina Rojas	2	$5,350.00
+18711 Ventura Blvd	44,885	Commercial	LADBS	Medium	Janice Lohman	2	$5,675.00
